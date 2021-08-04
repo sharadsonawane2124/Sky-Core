@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Skycore Home Screen</string>
+    <string name="title_activity_web_view">FullscreenActivity</string>
+</resources>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="212e77d6-9350-42e4-ba90-c8a80170bc47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/sharad-goqii/.android/avd/Pixel_4_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wGekM5JshKfCXxu2hoQVgDEnXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_4_API_29 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.mindorks.retrofit.coroutines" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.mindorks.retrofit.coroutines.data.api" />
+      <recent name="com.mindorks.retrofit.coroutines.data.repository" />
+      <recent name="com.mindorks.retrofit.coroutines.ui.main.view" />
+    </key>
+    <key name="android.template.898102080">
+      <recent name="com.mindorks.retrofit.coroutines.ui.view" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.mindorks.retrofit.coroutines.data.viewmodel" />
+      <recent name="com.mindorks.retrofit.coroutines.utils" />
+      <recent name="com.mindorks.retrofit.coroutines.data.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mindorks.retrofit.coroutines.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/data/api" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/data/repository" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/utils" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/data/model" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Retrofit-Kotlin-Coroutines-Example.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212e77d6-9350-42e4-ba90-c8a80170bc47" name="Default Changelist" comment="" />
+      <created>1628089499005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628089499005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628112461699">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="441" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/50.27.1316.741@50.27.1316.741" timestamp="1628112461699" />
+    <state x="378" y="186" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1628115525757">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="378" y="186" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/50.27.1316.741@50.27.1316.741" timestamp="1628115525757" />
+    <state x="466" y="142" key="#xdebugger.evaluate" timestamp="1628112959450">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="466" y="142" key="#xdebugger.evaluate/50.27.1316.741@50.27.1316.741" timestamp="1628112959450" />
+    <state x="455" y="145" width="505" height="512" key="AndroidProcessChooserDialog" timestamp="1628112910411">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="455" y="145" width="505" height="512" key="AndroidProcessChooserDialog/50.27.1316.741@50.27.1316.741" timestamp="1628112910411" />
+    <state width="514" height="478" key="DebuggerActiveHint" timestamp="1628112951193">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="514" height="478" key="DebuggerActiveHint/50.27.1316.741@50.27.1316.741" timestamp="1628112951193" />
+    <state x="491" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1628112199189">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="491" y="155" width="424" height="491" key="FileChooserDialogImpl/50.27.1316.741@50.27.1316.741" timestamp="1628112199189" />
+    <state width="1270" height="66" key="GridCell.Tab.0.bottom" timestamp="1628113438196">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1628113438196" />
+    <state width="1270" height="66" key="GridCell.Tab.0.center" timestamp="1628113438196">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1628113438196" />
+    <state width="1270" height="66" key="GridCell.Tab.0.left" timestamp="1628113438196">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1628113438196" />
+    <state width="1270" height="66" key="GridCell.Tab.0.right" timestamp="1628113438196">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1628113438196" />
+    <state width="1270" height="66" key="GridCell.Tab.1.bottom" timestamp="1628113438197">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.1.bottom/50.27.1316.741@50.27.1316.741" timestamp="1628113438197" />
+    <state width="1270" height="66" key="GridCell.Tab.1.center" timestamp="1628113438197">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.1.center/50.27.1316.741@50.27.1316.741" timestamp="1628113438197" />
+    <state width="1270" height="66" key="GridCell.Tab.1.left" timestamp="1628113438196">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.1.left/50.27.1316.741@50.27.1316.741" timestamp="1628113438196" />
+    <state width="1270" height="66" key="GridCell.Tab.1.right" timestamp="1628113438197">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="66" key="GridCell.Tab.1.right/50.27.1316.741@50.27.1316.741" timestamp="1628113438197" />
+    <state x="105" y="128" width="1196" height="545" key="caller.chooser.dialog" timestamp="1628108570808">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="105" y="128" width="1196" height="545" key="caller.chooser.dialog/50.27.1316.741@50.27.1316.741" timestamp="1628108570808" />
+    <state x="489" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628110920944">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="489" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/50.27.1316.741@50.27.1316.741" timestamp="1628110920944" />
+    <state x="399" y="107" width="732" height="580" key="find.popup" timestamp="1628118687403">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="399" y="107" width="732" height="580" key="find.popup/50.27.1316.741@50.27.1316.741" timestamp="1628118687403" />
+    <state x="419" y="170" width="568" height="462" key="refactoring.ChangeSignatureDialog" timestamp="1628099326794">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="419" y="170" width="568" height="462" key="refactoring.ChangeSignatureDialog/50.27.1316.741@50.27.1316.741" timestamp="1628099326794" />
+    <state x="372" y="174" key="run.anything.popup" timestamp="1628113760169">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="372" y="174" key="run.anything.popup/50.27.1316.741@50.27.1316.741" timestamp="1628113760169" />
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1628109987866">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup/50.27.1316.741@50.27.1316.741" timestamp="1628109987866" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/ui/main/view/MainActivity.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/ui/main/view/MainActivity.kt</url>
+          <line>79</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/mindorks/retrofit/coroutines/ui/main/view/MainActivity.kt</url>
+          <line>81</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/sharad/retrofit/coroutines/data/viewmodel/MainViewModel.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/sharad/retrofit/coroutines/data/viewmodel/MainViewModel.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/sharad/retrofit/coroutines/data/viewmodel/MainViewModel.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/sharad/retrofit/coroutines/ui/view/MainActivity.kt</url>
+          <line>90</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/sharad/retrofit/coroutines/data/repository/MainRepository.kt</url>
+          <line>5</line>
+          <properties class="com.sharad.retrofit.coroutines.data.repository.MainRepository" method="&lt;init&gt;" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
