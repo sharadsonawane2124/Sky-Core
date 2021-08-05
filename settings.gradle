@@ -1,2 +1,2 @@
-rootProject.name='Retrofit-Kotlin-Coroutines-Example'
+rootProject.name='Sky-Core'
 include ':app'
