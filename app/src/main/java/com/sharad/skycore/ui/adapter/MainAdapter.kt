@@ -58,6 +58,5 @@ class MainAdapter(private val users: ArrayList<Businesses>) :
             clear()
             addAll(users)
         }
-
     }
 }
